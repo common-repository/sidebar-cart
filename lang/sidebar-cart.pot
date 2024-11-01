@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SideCart for WooCommerce\n"
+"POT-Creation-Date: 2021-08-30 17:37+0500\n"
+"PO-Revision-Date: 2021-08-30 17:38+0500\n"
+"Last-Translator: \n"
+"Language-Team: https://ahmadshyk.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-woo-sidecart.php:59
+msgid "Your cart is empty."
+msgstr ""
+
+#: class-woo-sidecart.php:60
+msgid "Go to Shop"
+msgstr ""
+
+#: class-woo-sidecart.php:65
+msgid "View Cart"
+msgstr ""
+
+#: class-woo-sidecart.php:89
+msgid "Sidecart Options"
+msgstr ""
+
+#: class-woo-sidecart.php:90
+msgid "Woo Sidecart"
+msgstr ""
+
+#: inc/wsc-admin.php:9
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/wsc-admin.php:36
+msgid "General"
+msgstr ""
+
+#: inc/wsc-admin.php:39 inc/wsc-admin.php:43
+msgid "Enable Sidecart"
+msgstr ""
+
+#: inc/wsc-admin.php:47
+msgid "Open SideCart after product added to cart"
+msgstr ""
+
+#: inc/wsc-admin.php:51
+msgid "Hide when cart empty"
+msgstr ""
+
+#: inc/wsc-admin.php:56
+msgid "Style"
+msgstr ""
+
+#: inc/wsc-admin.php:58
+msgid "SideCart trigger background color"
+msgstr ""
+
+#: inc/wsc-admin.php:63
+msgid "SideCart Count background color"
+msgstr ""
+
+#: inc/wsc-admin.php:68
+msgid "SideCart Count Text color"
+msgstr ""
+
+#: inc/wsc-admin.php:73
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/wsc-admin.php:78
+msgid "SideCart Container background color"
+msgstr ""
+
+#: inc/wsc-admin.php:83
+msgid "Sidecart Items background color"
+msgstr ""
+
+#: inc/wsc-admin.php:88
+msgid "Sidecart Item Name color"
+msgstr ""
+
+#: inc/wsc-admin.php:93
+msgid "Sidecart Item Price/Quantity color"
+msgstr ""
+
+#: inc/wsc-admin.php:98
+msgid "Remove Item background color"
+msgstr ""
+
+#: inc/wsc-admin.php:103
+msgid "Remove Item color"
+msgstr ""
+
+#: inc/wsc-admin.php:108
+msgid "Subtotal Heading Color"
+msgstr ""
+
+#: inc/wsc-admin.php:113
+msgid "Subtotal Price Color"
+msgstr ""
+
+#: inc/wsc-admin.php:118
+msgid "View Cart Background Color"
+msgstr ""
+
+#: inc/wsc-admin.php:123
+msgid "View Cart Text Color"
+msgstr ""
+
+#: inc/wsc-admin.php:128
+msgid "View Cart Hover Background Color"
+msgstr ""
+
+#: inc/wsc-admin.php:133
+msgid "View Cart Hover Text Color"
+msgstr ""
+
+#: inc/wsc-admin.php:138
+msgid "Checkout Background Color"
+msgstr ""
+
+#: inc/wsc-admin.php:143
+msgid "Checkout Text Color"
+msgstr ""
+
+#: inc/wsc-admin.php:148
+msgid "Checkout Hover Background Color"
+msgstr ""
+
+#: inc/wsc-admin.php:153
+msgid "Checkout Hover Text Color"
+msgstr ""
+
+#: inc/wsc-admin.php:158
+msgid "Shortcode"
+msgstr ""
+
+#: inc/wsc-admin.php:159
+msgid ""
+"<strong style=\"font-size:18px;\">[woo-sidecart]</strong> Use this shortcode "
+"to display sidecart trigger anywhere."
+msgstr ""
+
+#: inc/wsc-admin.php:161
+msgid ""
+"Shortcode is available in <a href=\"https://ahmadshyk.com/item/woocommerce-"
+"sidecart-pro/\" target=\"_blank\" class=\"pro-only-link\">Premium</a> "
+"extension only."
+msgstr ""
+
+#: inc/wsc-admin.php:168
+msgid ""
+"<h3><a class=\"pro-only-link\" href=\"https://ahmadshyk.com/item/woocommerce-"
+"sidecart-pro/\" target=\"_blank\">Get Premium extension</a></h3><h4>What is "
+"included in Premium extension?</h4><ol class=\"pro-details-list\"><li>Auto "
+"open sidecart when product added to cart</li><li>Custom Cart Icon</"
+"li><li>Sidecart Trigger Shortcode</li><li>Add Sidecart trigger in menu</"
+"li><li>Custom Styling</li><li>Preferred Support</li><li>Lifetime Updates</"
+"li></ol><h2>Interested in Premium extension?</h2><h4><a href=\"https://"
+"ahmadshyk.com/item/woocommerce-sidecart-pro/\" target=\"_blank\">Click here</"
+"a> to get Premium extension now.</h4>"
+msgstr ""
+
+#: inc/wsc-review.php:31
+msgid "Remove this item"
+msgstr ""
+
+#: inc/wsc-review.php:83
+msgid "Subtotal:"
+msgstr ""
+
+#: woo-sidecart.php:35
+msgid ""
+"SideCart for WooCommerce Plugin is activated but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
